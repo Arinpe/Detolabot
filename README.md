@@ -2,7 +2,7 @@
 
     This is a telegram chat bot which promises to be interactive.    
 
-    [screenshot](/img/Telegrambot.png)
+    [screenshot](../img/Telegrambot.png)
 
 
 
