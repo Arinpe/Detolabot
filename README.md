@@ -1,12 +1,34 @@
 # Detolabot
 
-    This is a telegram chat bot which promises to be interteractive.    
+    This is a telegram chat bot which promises to be interactive.    
+
+    ![screenshot](/img/Telegrambot.png)
 
 
 
 ## Built With
 
 - Ruby
+- Telegram Bot API
+- Chuck Norris Jokes API
+
+## Feature
+
+- The bot has two main features
+- It gives you the random jokes based on food
+
+## Commands to use
+
+- /help
+- /hello
+- /start
+- /bye
+- /joke
+
+## Dependencies
+- telegram-bot-ruby
+- dotenv
+- httparty
 
 
 ## Live Demo
@@ -14,8 +36,6 @@
 [Live Demo Link](https://raw.githack.com/Arinpe/Detolabot/tree/feature)
 
 **See the page via the link above**
-
-**See the Source Page via the link below**
 
 [Source Page Link]
 ## Author
