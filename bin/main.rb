@@ -19,7 +19,7 @@ Telegram::Bot::Client.run(token) do |bot|
         \n /hi: The bot says hello.
         \n /hello: The bot says hi.
         \n /quote: Displays quote.
-        \n /joke: Asks for your name and makes a joke with your name.
+        \n /joke: ask for a joke and gives a joke about food
         \n /bye: Says goodbye to the user."
         bot.api.send_message(chat_id: message.chat.id, text: "Hello, wlecome to telebot #{greet}")
       when '/joke'
