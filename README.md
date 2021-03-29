@@ -68,7 +68,7 @@ Then use the commands above to begin interacting.
 
 - GitHub: [@Arinpe](https://github.com/Arinpe)
 - Twitter: [@_detola_](https://twitter.com/_detola_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adesuyi-adetola-7b4451111/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aadetola/)
 
 ## Show your support
 
