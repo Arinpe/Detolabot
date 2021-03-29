@@ -1,6 +1,6 @@
 # !/usr/bin/env ruby
-require 'telegram/bot'
-require 'dotenv/load'
+require_relative 'telegram/bot'
+require_relative 'dotenv/load'
 require_relative '../lib/joke'
 token = ENV['TELEGRAM_TOKEN']
 
