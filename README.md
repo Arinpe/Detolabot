@@ -1,6 +1,6 @@
 # Detolabot
 
-    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
+    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.The telegram handle is @detola_bot
 
     [screenshot](../img/Telegrambot.png)
 
