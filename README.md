@@ -20,8 +20,6 @@ Built With
 - A telegram Chat bot API
 
 # Getting Started
-Get a local copy of this repo Open a terminal and run:git clone git@github.com:OlawaleJoseph/telebot.git
-
 Navigate to your telegram account if you have one. Or create new telegram account.
 
 Create a new bot with the help of BotFather
