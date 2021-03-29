@@ -1,16 +1,55 @@
 # Detolabot
 
-    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot
+    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
 
     [screenshot](../img/Telegrambot.png)
 
+# Purpose
+    This is a capstone project for the ruby module microverse curriculum .
 
-
-## Built With
-
+Built With
 - Ruby
 - Telegram Bot API
 - Chuck Norris Jokes API
+
+# Requirements
+- A computer
+- Ruby. 
+- Installing Ruby
+- Telegram account
+- A telegram Chat bot API
+
+# Getting Started
+Get a local copy of this repo Open a terminal and run:git clone git@github.com:OlawaleJoseph/telebot.git
+
+Navigate to your telegram account if you have one. Or create new telegram account.
+
+Create a new bot with the help of BotFather
+
+Obtain your new bot's token.
+
+Create .env file in the root directory.
+
+env example
+
+In the .env file create a variable as indicated the .env.example file
+
+Open a terminal and run bunle install
+
+After successful installation run the command ruby bin/main.rb
+
+On your telegram account search for your bot's name
+
+Then use the commands above to begin interacting.
+
+# Dependencies
+- telegram-bot-ruby
+- dotenv
+- httparty
+- Testing
+- Install Rspec gem in your system.
+- Open Command Prompt or Terminal and run: gem install Rspec
+- Navigate into the project folder and run the following command in the console: rspec
 
 ## Feature
 
@@ -25,19 +64,6 @@
 - /bye
 - /joke
 
-## Dependencies
-- telegram-bot-ruby
-- dotenv
-- httparty
-
-
-## Live Demo
-
-[Live Demo Link](https://raw.githack.com/Arinpe/Detolabot/tree/feature)
-
-**See the page via the link above**
-
-[Source Page Link]
 ## Author
 
 👤 **Adetola Adesuyi**
