@@ -1,11 +1,11 @@
 # Detolabot
 
-    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.The telegram handle is @detola_bot
+    This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
 
     [screenshot](../img/Telegrambot.png)
 
 # Purpose
-    This is a capstone project for the ruby module microverse curriculum .
+    This is a capstone project for the ruby module microverse curriculum which has a telegram handle of @Detola_bot
 
 Built With
 - Ruby
