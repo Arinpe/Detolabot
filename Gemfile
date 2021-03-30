@@ -9,3 +9,7 @@ gem 'telegram-bot-ruby'
 gem 'json'
 
 gem 'httparty'
+
+group :development, :test do
+    gem 'rubocop', require: true
+   end 
