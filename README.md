@@ -1,4 +1,4 @@
-# Detolabot
+# Detolabot.
 
     This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
 
