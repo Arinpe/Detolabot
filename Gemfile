@@ -10,6 +10,4 @@ gem 'json'
 
 gem 'httparty'
 
-group :development, :test do
-    gem 'rubocop', require: true
-   end 
+gem 'rubocop', '~>0.81.0'
