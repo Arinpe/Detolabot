@@ -12,6 +12,6 @@ describe Joke do
     expect(res).to be_a String
   end
 
-  it 'should return a joke that contains food' do
-  end
+  # it 'should return a joke that contains food' do
+  # end
 end
