@@ -1,25 +1,36 @@
 # Detolabot.
 
     This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
+A telegram bot that can be initialized on the command line It responds to commands -  /joke, /hi, /help.
 
-    [screenshot](../img/Telegrambot.png)
+## Purpose
+This is a capstone project for the ruby module microverse curriculum .
 
-# Purpose
-    This is a capstone project for the ruby module microverse curriculum which has a telegram handle of @Detola_bot
+## Features
+The bot has two main features
+It gives a random jokes based on food.
+It diplays quotes.
 
-Built With
-- Ruby
-- Telegram Bot API
-- Chuck Norris Jokes API
+## Commands To Use
+/help
+/hi
+/start
+/joke
 
-# Requirements
-- A computer
-- Ruby. 
-- Installing Ruby
-- Telegram account
-- A telegram Chat bot API
+## Built With
+Ruby
+Telegram Bot API
+Type fit Quotes API
+Chuck Norris Jokes API
 
-# Getting Started
+## Requirements
+A computer
+Ruby. Installing Ruby
+Telegram account
+A telegram Chat bot API
+Getting Started
+Get a local copy of this repo Open a terminal and run:git clone git@github.com:OlawaleJoseph/telebot.git
+
 Navigate to your telegram account if you have one. Or create new telegram account.
 
 Create a new bot with the help of BotFather
@@ -32,7 +43,7 @@ env example
 
 In the .env file create a variable as indicated the .env.example file
 
-Open a terminal and run bunle install
+Open a terminal and run bundle install
 
 After successful installation run the command ruby bin/main.rb
 
@@ -40,27 +51,16 @@ On your telegram account search for your bot's name
 
 Then use the commands above to begin interacting.
 
-# Dependencies
-- telegram-bot-ruby
-- dotenv
-- httparty
-- Testing
-- Install Rspec gem in your system.
-- Open Command Prompt or Terminal and run: gem install Rspec
-- Navigate into the project folder and run the following command in the console: rspec
+## Dependencies
+telegram-bot-ruby
+dotenv
+httparty
+Testing
+Install Rspec gem in your system.
 
-## Feature
+Open Command Prompt or Terminal and run: gem install Rspec
 
-- The bot has two main features
-- It gives you the random jokes based on food
-
-## Commands to use
-
-- /help
-- /hello
-- /start
-- /bye
-- /joke
+Navigate into the project folder and run the following command in the console: rspec
 
 ## Author
 

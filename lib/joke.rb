@@ -1,4 +1,4 @@
-require_relative 'request'
+require 'request'
 
 class Joke
   def initialize
