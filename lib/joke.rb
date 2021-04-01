@@ -12,8 +12,6 @@ class Joke
 
   private
 
-  attr_accessor :joke
-
   def jokes
     get_joke
     api = 'https://api.chucknorris.io/jokes/random?category=food'
