@@ -7,6 +7,10 @@ describe Joke do
     expect(joke).to be_an_instance_of Joke
   end
 
+  it 'should return a joke' do
+    res = joke.display_joke
+    expect(res).to be_a String
+  end
   it 'should return a joke that contains food' do
   end
 end
