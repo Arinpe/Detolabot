@@ -1,8 +1,8 @@
-
 require 'telegram/bot'
 require 'dotenv/load'
 require_relative '../lib/joke'
 token = ENV['TELEGRAM_TOKEN']
+$joke_request = nil
 
 Telegram::Bot::Client.run(token) do |bot|
   bot.listen do |message|
