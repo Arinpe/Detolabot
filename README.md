@@ -1,4 +1,4 @@
-# Detolabot
+# Detolabot.
 
     This is a telegram chat bot which promises to be interactive. The name of the bot is Detolabot.
 A telegram bot that can be initialized on the command line It responds to commands -  /joke, /hi, /help.
